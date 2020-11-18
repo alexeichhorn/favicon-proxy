@@ -13,4 +13,4 @@ docker-compose.yml
 *.iml
 
 # Configs
-conf/
+#conf/
